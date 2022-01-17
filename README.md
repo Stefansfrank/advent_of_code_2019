@@ -1,4 +1,4 @@
-# advent_of_code_2019
+# Advent of Code 2019 in Go(lang)
 Solutions for Advent of Code 2019
 
 This was my first year of AoC so forgive the complexity of my solutions. Only over time did I develop a better feel for optimization.
